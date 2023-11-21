@@ -25,6 +25,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_starlists: true
+          plugin_activity: yes
           plugin_isocalendar: yes
           plugin_notable: yes
           plugin_notable_indepth: yes
